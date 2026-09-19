@@ -42,11 +42,11 @@ the string, your art goes in the middle, three more end it:**
 
 ```python
 MY_NAME = """
-DDDD    A   N   N   A
-D   D  A A  NN  N  A A
-D   D AAAAA N N N AAAAA
-D   D A   A N  NN A   A
-DDDD  A   A N   N A   A
+DDDD    A   N   N
+D   D  A A  NN  N 
+D   D AAAAA N N N 
+D   D A   A N  NN
+DDDD  A   A N   N 
 """
 
 print(MY_NAME)
