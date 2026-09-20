@@ -29,12 +29,12 @@ Two rules:
 Plain text is completely fine:
 
 ```python
-print("Made by Dana Example")
+print("Made by Dan Example")
 ```
 
 ASCII art is better, and you do not have to make it by hand. Ask Copilot:
 
-> *Make my name "Dana Example" as ASCII art I can print from Python. Use only
+> *Make my name "Dan Example" as ASCII art I can print from Python. Use only
 > plain letters and simple characters, no backslashes.*
 
 Then print it the same way the banner is printed. **Three quotation marks start
