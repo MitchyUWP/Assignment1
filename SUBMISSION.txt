@@ -2,16 +2,16 @@
  CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
 ======================================================================
  Status         : COMPLETE - all checks passed
- GitHub user    : CS1430
- Repository     : https://github.com/CS1430/Assignment1
- Commit         : 532844c  Correct name from 'Dana Example' to 'Dan Example'
- Commit author  : Dan Rhode
- Generated      : 2026-09-24 12:11:58
+ GitHub user    : MitchyUWP
+ Repository     : https://github.com/MitchyUWP/Assignment1
+ Commit         : 64524f0  Test2
+ Commit author  : Mitchell Kress
+ Generated      : 2026-09-30 18:22:47
 
  SELF CHECK
 ======================================================================
  CS 1430  -  ASSIGNMENT 1 SELF CHECK
- 2026-09-24 12:11:58   Dan Rhode
+ 2026-09-30 18:22:47   Mitchell Kress
 ======================================================================
  [PASS] Python is installed                        3.14.7
  [PASS] main.py is in this folder                  
@@ -19,11 +19,11 @@
  [PASS] The ASCII art is unchanged                 
  [PASS] You added at least one print statement     1 added
  [PASS] Your name shows up when the program runs   5 new lines of output
- [PASS] Git is installed                           git version 2.55.0.windows.5
+ [PASS] Git is installed                           git version 2.56.0.windows.1
  [PASS] This folder is a Git repository            
- [PASS] You have made a commit                     "Correct name from 'Dana Example' to 'Dan Example'"
- [PASS] This repo points at GitHub                 github.com/CS1430/Assignment1
- [PASS] Your commit is pushed to GitHub            532844c
+ [PASS] You have made a commit                     "Test2"
+ [PASS] This repo points at GitHub                 github.com/MitchyUWP/Assignment1
+ [PASS] Your commit is pushed to GitHub            64524f0
 ======================================================================
 
  WHAT YOUR PROGRAM PRINTED
